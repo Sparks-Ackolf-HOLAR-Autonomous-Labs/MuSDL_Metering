@@ -1,0 +1,8 @@
+{
+ "figure_script": "papers/paperB_qe_mx2_campaign/figures/make_figures.py",
+ "reads": [
+  "dft_campaign/results/outcomes.jsonl",
+  "scale_validation/results/scale_fit.json",
+  "stacking_study/results_2088961/outcomes.jsonl"
+ ]
+}

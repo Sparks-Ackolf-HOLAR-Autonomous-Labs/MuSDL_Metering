@@ -1,0 +1,54 @@
+{
+ "task": 0,
+ "compound": "MoSSe",
+ "face": "top",
+ "vacancy": "S",
+ "restart_count": 1,
+ "node": "notch488",
+ "ranks": 32,
+ "npool": "2",
+ "s1_E_Ry": -207.21152314,
+ "s1_cpu_s": 42.65,
+ "a_relaxed_A": 3.2478,
+ "gap_eV": 1.5755,
+ "gap_nk": 164,
+ "hop_distance_A": 3.2478,
+ "ini_rc": 0,
+ "ini_wall_s": 594.8,
+ "ini_E_Ry": -1840.58670131,
+ "ini_cpu_s": 523.4,
+ "fin_rc": 0,
+ "fin_wall_s": 578.8,
+ "fin_E_Ry": -1840.58670132,
+ "fin_cpu_s": 511.0,
+ "neb_restart_mode": "from_scratch",
+ "neb_rc": 0,
+ "neb_wall_s": 3415.0,
+ "E_hop_eV": 2.04096,
+ "E_hop_back_eV": 2.04096,
+ "neb_converged": true,
+ "neb_iterations": 14,
+ "neb_cpu_s": 2995.47,
+ "profile_eV": [
+  [
+   0.0,
+   0.0
+  ],
+  [
+   0.2493071022,
+   1.1495112303
+  ],
+  [
+   0.4999999622,
+   2.0409601575
+  ],
+  [
+   0.7506921413,
+   1.149530594
+  ],
+  [
+   1.0,
+   2.367e-07
+  ]
+ ]
+}

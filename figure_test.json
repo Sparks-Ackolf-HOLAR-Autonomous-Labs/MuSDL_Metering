@@ -1,0 +1,15 @@
+{
+ "status": "pass",
+ "returncode": 0,
+ "expected_figures": [
+  "fig1_gaps.pdf",
+  "fig2_cost_memory.pdf",
+  "fig3_gain.pdf"
+ ],
+ "regenerated": [
+  "fig1_gaps.pdf",
+  "fig2_cost_memory.pdf",
+  "fig3_gain.pdf"
+ ],
+ "stderr_tail": ""
+}
