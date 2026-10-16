@@ -1,4 +1,4 @@
-# Reproducing: Measured job costs in a density functional theory screen of two-dimensional semiconductors determine when sharing information benefits a research group and a computing centre
+# Reproducing: Compound-specific memory demand determines when a research group and a computing centre benefit from sharing information in two-dimensional semiconductor screening
 
 This file explains how to reproduce every number, table and figure of the
 article from this folder. All commands run from the folder root unless a
