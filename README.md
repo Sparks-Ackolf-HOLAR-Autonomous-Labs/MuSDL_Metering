@@ -1,5 +1,7 @@
 # Measured job costs in a density functional theory screen of two-dimensional semiconductors determine when sharing information benefits a research group and a computing centre
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23413478.svg)](https://doi.org/10.5281/zenodo.23413478)
+
 Code and data for the article "Measured job costs in a density functional theory screen of two-dimensional semiconductors determine when sharing information benefits a research group and a computing centre" (prepared for Computational Materials Science (Elsevier)).
 
 Thirty transition-metal dichalcogenide layers (MX2; M = Ti, Zr, Hf, Mo, W; X = S, Se, Te) in 1T and 2H structures were screened with Quantum ESPRESSO and the PBE functional through a four-stage fidelity ladder, and every job was timed and its memory recorded. The article reports the screen (band gaps, spin-orbit gaps, Gamma-point phonons, the corrected 2H stacking, chalcogen-vacancy and Janus-layer migration barriers from nudged elastic band calculations) and the measured job costs from primitive cells to 8x8 supercells: randomized benchmarks, scale series, memory and co-residency probes, a multi-node benchmark and four paired comparisons of sharing arrangements between the research group and the computing centre.
