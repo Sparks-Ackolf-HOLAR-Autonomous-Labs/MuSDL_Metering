@@ -4,12 +4,18 @@
  "expected_figures": [
   "fig1_gaps.pdf",
   "fig2_cost_memory.pdf",
-  "fig3_gain.pdf"
+  "fig3_gain.pdf",
+  "fig_group_leak.pdf",
+  "fig_method.pdf",
+  "fig_stage_cost.pdf"
  ],
  "regenerated": [
   "fig1_gaps.pdf",
   "fig2_cost_memory.pdf",
-  "fig3_gain.pdf"
+  "fig3_gain.pdf",
+  "fig_group_leak.pdf",
+  "fig_method.pdf",
+  "fig_stage_cost.pdf"
  ],
  "stderr_tail": ""
 }
